@@ -1,0 +1,28 @@
+body { 
+    font-family: Arial, sans-serif; 
+    background: #e0e0e0; 
+    text-align: center; 
+    margin: 0; 
+    padding: 0; 
+}
+.container { 
+    background: #fff; 
+    padding: 20px; 
+    border-radius: 10px; 
+    width: 350px; 
+    margin: 50px auto; 
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+}
+input[type="number"] { 
+    padding: 8px; 
+    width: 60px; 
+    font-size: 16px; 
+}
+input[type="submit"] { 
+    padding: 8px 16px; 
+    font-size: 16px; 
+}
+.message { 
+    font-size: 18px; 
+    margin-bottom: 20px; 
+}
