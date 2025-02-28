@@ -24,7 +24,7 @@ The game generates a random number between 1 and 20, and the user must guess the
 1. *Clone this repository or download the files:*
    ```bash
    git clone https://github.com/nikPaspa/Guess-a-Number-in-PHP
-2. *Place the files on your server: Copy the index.php file (or the entire project) to your web server’s root directory (e.g., the htdocs folder in XAMPP).*
+2. *Place the files on your server: Copy the guess.php and style.css file (or the entire project) to your web server’s root directory (e.g., the htdocs folder in XAMPP).*
 
 3. *Start the web server: Make sure the server is running.*
 
