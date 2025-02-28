@@ -39,4 +39,12 @@ http://localhost/Guess-a-Number-PHP/guess.php
 
 
 ![Imagem do WhatsApp de 2025-02-28 à(s) 09 40 48_f03b10a8](https://github.com/user-attachments/assets/d8ebc57e-3913-46e5-b30a-1e37c5581090)
+
+![Imagem do WhatsApp de 2025-02-28 à(s) 09 43 51_fce7189f](https://github.com/user-attachments/assets/45c8c101-0953-4c40-bfbf-4e126e04496f)
+
+![Imagem do WhatsApp de 2025-02-28 à(s) 09 41 04_8ad0a850](https://github.com/user-attachments/assets/558a6b74-60b7-4b05-a61b-93fc7a3d1912)
+
 ![Imagem do WhatsApp de 2025-02-28 à(s) 09 43 27_5ea8753f](https://github.com/user-attachments/assets/88467a3f-0261-41ca-a642-e3ff40ac6fdb)
+
+![Imagem do WhatsApp de 2025-02-28 à(s) 09 46 03_e537533a](https://github.com/user-attachments/assets/b7848a2c-0f7c-4acb-a1fe-98d271f69a9e)
+
